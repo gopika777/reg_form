@@ -1,0 +1,39 @@
+.main{
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 8px 5px 8px #a3a2a2;
+    text-align: center;
+}
+
+
+.main h1{
+    font-size: 40px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+   color: #055f0b;
+
+}
+
+input{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 5px 10px;
+    margin: 10px;
+    border: none;
+    border-bottom: 2px solid #72e97a;
+}
+
+input[type=submit]{
+    font-family: Arial;
+    width: 100%;
+    background-color: #72e97a;;
+    border: #1573cb;
+    color: rgb(10, 10, 10);
+    padding: 16px 32 px;
+    margin: 4px 2px;
+    border-radius: 10px;
+
+
+}
